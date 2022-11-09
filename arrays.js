@@ -28,7 +28,8 @@ console.log(typeof(pushResult))
 //[true, true, false, true, false, false, true, false, false]
 console.log(factsBooleans)
 // INDEX POSITIONS //
-// In programming, counting generally begins from 0, rather than from 1. That means that the first value within an array is considered to be at index position 0. The second value at 1, etc. We can also use negative numbers to begin counting from the end of the array, such as using the index position of -1 to indicate the final position in the array.
+// In programming, counting generally begins from 0, rather than from 1. That means that the first value within an array is considered to be at index position 0. The second value at 1, etc. We can also use negative numbers to begin counting from the end of the array, such as using the index position of -1 to indicate the final position in the array. 
+// NOTE : I COULD NOT PUT THIS NEGATIVE NUMBER BUSINESS INTO PRACTICE PROPERLY BELOW
 
 // We can practice this concept by printing to the console and guessing what the output will be based off of this understanding.
 
